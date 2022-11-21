@@ -1,0 +1,7 @@
+a)
+git add the_left_out_file
+git commit --amend --no-edit
+b)
+git reset HEAD~
+c)
+git revert <commit_hash>
